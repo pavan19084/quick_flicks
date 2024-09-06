@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "815673448529",
+    "project_id": "quickflicks-819f8",
+    "storage_bucket": "quickflicks-819f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815673448529:android:3fedffd068ae60ef1dc070",
+        "android_client_info": {
+          "package_name": "com.example.quick_flicks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6zPo-sCAlINF6Ll0AoDF_6qCmjTX1aQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
